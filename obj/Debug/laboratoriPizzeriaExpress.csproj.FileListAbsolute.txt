@@ -3,3 +3,5 @@ C:\Users\Usuario\Desktop\wilsonpizza\pizzeria-colas-pilas\laboratoriPizzeriaExpr
 C:\Users\Usuario\Desktop\wilsonpizza\pizzeria-colas-pilas\laboratoriPizzeriaExpress\bin\Debug\laboratoriPizzeriaExpress.pdb
 C:\Users\Usuario\Desktop\wilsonpizza\pizzeria-colas-pilas\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.exe
 C:\Users\Usuario\Desktop\wilsonpizza\pizzeria-colas-pilas\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.pdb
+C:\Users\Usuario\Desktop\wilsonpizza\pizzeria-colas-pilas\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaCampusExpress.MainForm.resources
+C:\Users\Usuario\Desktop\wilsonpizza\pizzeria-colas-pilas\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.csproj.GenerateResource.Cache
